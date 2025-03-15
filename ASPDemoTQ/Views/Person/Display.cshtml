@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1>Display</h1>
+
+<h1>Person Data</h1>
+
+<p>
+    Name : @ViewBag.Name
+</p>
+<p>
+    Address : @ViewBag.Address
+</p>
+<p>
+    Gender : @ViewBag.Gender
+</p>
+<p>
+    Education :
+    <ol>
+        @foreach (string s in ViewBag.Education)
+        {
+            <li>
+                @s
+            </li>
+        }
+    </ol>
+</p>
+<p>
+    City : @ViewBag.City
+</p>

@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\PracticeDemo\bin\Debug\PracticeDemo.exe.config
+C:\Users\Sushant\.Net\PracticeDemo\bin\Debug\PracticeDemo.exe
+C:\Users\Sushant\.Net\PracticeDemo\bin\Debug\PracticeDemo.pdb
+C:\Users\Sushant\.Net\PracticeDemo\obj\Debug\PracticeDemo.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\PracticeDemo\obj\Debug\PracticeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\PracticeDemo\obj\Debug\PracticeDemo.exe
+C:\Users\Sushant\.Net\PracticeDemo\obj\Debug\PracticeDemo.pdb

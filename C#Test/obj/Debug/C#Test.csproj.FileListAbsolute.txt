@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\C#Test\bin\Debug\C#Test.exe.config
+C:\Users\Sushant\.Net\C#Test\bin\Debug\C#Test.exe
+C:\Users\Sushant\.Net\C#Test\bin\Debug\C#Test.pdb
+C:\Users\Sushant\.Net\C#Test\obj\Debug\C#Test.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\C#Test\obj\Debug\C#Test.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\C#Test\obj\Debug\C#Test.exe
+C:\Users\Sushant\.Net\C#Test\obj\Debug\C#Test.pdb

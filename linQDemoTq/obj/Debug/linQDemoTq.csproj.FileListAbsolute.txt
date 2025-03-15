@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\linQDemoTq\bin\Debug\linQDemoTq.exe.config
+C:\Users\Sushant\.Net\linQDemoTq\bin\Debug\linQDemoTq.exe
+C:\Users\Sushant\.Net\linQDemoTq\bin\Debug\linQDemoTq.pdb
+C:\Users\Sushant\.Net\linQDemoTq\obj\Debug\linQDemoTq.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\linQDemoTq\obj\Debug\linQDemoTq.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\linQDemoTq\obj\Debug\linQDemoTq.exe
+C:\Users\Sushant\.Net\linQDemoTq\obj\Debug\linQDemoTq.pdb

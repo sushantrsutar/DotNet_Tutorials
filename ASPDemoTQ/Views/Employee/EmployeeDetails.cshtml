@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewData["Title"] = "EmployeeDetails";
+}
+
+<h1>EmployeeDetails</h1>
+<form asp-action="EmployeeDetails">
+    <table>
+        <tr>
+            <td>Employee Name:</td>
+            <td>
+                @Html.TextBox("fname")
+            </td>
+        </tr>
+        <tr>
+            <td>Address:</td>
+            <td>
+                @Html.TextArea("address")
+            </td>
+        </tr>
+        <tr>
+            <td>Skills:</td>
+            <td>
+                @Html.TextArea("skills")
+            </td>
+        </tr>
+        <tr>
+            <td>Select Department:</td>
+            <td>
+                @Html.DropDownList("depts")
+            </td>
+        </tr>
+        <tr>
+            <td>Gender:</td>
+            <td>
+                @Html.RadioButton("gender", "Male") Male
+                @Html.RadioButton("gender", "Female") Female
+            </td>
+        </tr>
+        <tr>
+            <td>Education:</td>
+            <td>
+                <input type="checkbox" name="edu" value="Graduate" /> Graduate
+                <input type="checkbox" name="edu" value="Post Graduate" /> Post Graduate
+                <input type="checkbox" name="edu" value="PhD" /> PhD
+            </td>
+        </tr>
+        <tr>
+            <td>Select City:</td>
+            <td>
+                @Html.DropDownList("citites")
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </td>
+        </tr>
+    </table>
+</form>
+
+

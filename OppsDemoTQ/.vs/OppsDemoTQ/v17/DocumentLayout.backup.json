@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sushant\\.Net\\OppsDemoTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEA7DB0-11B3-4001-BE13-01DD3099A582}|OppsDemoTQ.csproj|c:\\users\\sushant\\.net\\oppsdemotq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEA7DB0-11B3-4001-BE13-01DD3099A582}|OppsDemoTQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEA7DB0-11B3-4001-BE13-01DD3099A582}|OppsDemoTQ.csproj|c:\\users\\sushant\\.net\\oppsdemotq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEA7DB0-11B3-4001-BE13-01DD3099A582}|OppsDemoTQ.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEA7DB0-11B3-4001-BE13-01DD3099A582}|OppsDemoTQ.csproj|c:\\users\\sushant\\.net\\oppsdemotq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEA7DB0-11B3-4001-BE13-01DD3099A582}|OppsDemoTQ.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\OppsDemoTQ\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\OppsDemoTQ\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:03:58.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\OppsDemoTQ\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\OppsDemoTQ\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:22:39.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\OppsDemoTQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\OppsDemoTQ\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwIIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:22:09.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

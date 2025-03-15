@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|c:\\users\\sushant\\.net\\aspdemotq\\controllers\\employeevalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|solutionrelative:controllers\\employeevalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|c:\\users\\sushant\\.net\\aspdemotq\\views\\employee\\employeedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|solutionrelative:views\\employee\\employeedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|c:\\users\\sushant\\.net\\aspdemotq\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|c:\\users\\sushant\\.net\\aspdemotq\\views\\employee\\empdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|solutionrelative:views\\employee\\empdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|c:\\users\\sushant\\.net\\aspdemotq\\views\\employeevalidation\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|solutionrelative:views\\employeevalidation\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|c:\\users\\sushant\\.net\\aspdemotq\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|c:\\users\\sushant\\.net\\aspdemotq\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C70CAE01-AFCD-4194-9A53-FC4D00CBFB6F}|ASPDemoTQ.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Controllers\\EmployeeValidationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeValidationController.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Controllers\\EmployeeValidationController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeValidationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:02:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Views\\Employee\\EmployeeDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\EmployeeDetails.cshtml",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Views\\Employee\\EmployeeDetails.cshtml",
+              "RelativeToolTip": "Views\\Employee\\EmployeeDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T04:32:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:32:15.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpDisplay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Views\\Employee\\EmpDisplay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\EmpDisplay.cshtml",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Views\\Employee\\EmpDisplay.cshtml",
+              "RelativeToolTip": "Views\\Employee\\EmpDisplay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T04:32:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T05:47:00.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Views\\EmployeeValidation\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmployeeValidation\\AddEmployee.cshtml",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Views\\EmployeeValidation\\AddEmployee.cshtml",
+              "RelativeToolTip": "Views\\EmployeeValidation\\AddEmployee.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T06:06:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ASPDemoTQ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T06:31:03.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

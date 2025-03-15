@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\DelegateDemoTQ\bin\Debug\DelegateDemoTQ.exe.config
+C:\Users\Sushant\.Net\DelegateDemoTQ\bin\Debug\DelegateDemoTQ.exe
+C:\Users\Sushant\.Net\DelegateDemoTQ\bin\Debug\DelegateDemoTQ.pdb
+C:\Users\Sushant\.Net\DelegateDemoTQ\obj\Debug\DelegateDemoTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\DelegateDemoTQ\obj\Debug\DelegateDemoTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\DelegateDemoTQ\obj\Debug\DelegateDemoTQ.exe
+C:\Users\Sushant\.Net\DelegateDemoTQ\obj\Debug\DelegateDemoTQ.pdb

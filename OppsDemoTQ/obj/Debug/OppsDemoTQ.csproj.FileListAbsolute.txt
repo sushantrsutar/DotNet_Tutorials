@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\OppsDemoTQ\bin\Debug\OppsDemoTQ.exe.config
+C:\Users\Sushant\.Net\OppsDemoTQ\bin\Debug\OppsDemoTQ.exe
+C:\Users\Sushant\.Net\OppsDemoTQ\bin\Debug\OppsDemoTQ.pdb
+C:\Users\Sushant\.Net\OppsDemoTQ\obj\Debug\OppsDemoTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\OppsDemoTQ\obj\Debug\OppsDemoTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\OppsDemoTQ\obj\Debug\OppsDemoTQ.exe
+C:\Users\Sushant\.Net\OppsDemoTQ\obj\Debug\OppsDemoTQ.pdb

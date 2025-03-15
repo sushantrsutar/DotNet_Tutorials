@@ -1,0 +1,28 @@
+﻿<h1>@ViewData["message"]</h1>
+<ol>
+	@foreach (string s in (IEnumerable<string>) ViewData["data"]) { 
+		<li>@s</li>
+	}
+</ol>
+
+<h2>Book Data </h2>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Price</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (Book book in (IEnumerable<Book>)ViewData["bookdata"]) { 
+			<tr>
+				<td>@book.Id</td>
+				<td>@book.Name</td>
+				<td>@book.Price</td>
+			</tr>	
+		}
+
+	</tbody>
+
+</table>

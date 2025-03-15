@@ -1,0 +1,75 @@
+<div class="container">
+    <div class="row" *ngIf="showList">
+        <input type="button" value="Add Student" class="btn btn-primary mb-3" (click)="toggleForm()" style="width: 140px;"/>
+        <h3>Student List</h3>
+        <div class="col-12">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Percentage</th>
+                    <th>Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                   <tr *ngFor="let stu of stuList">
+                    <td>{{stu.stuId}}</td>
+                    <td>{{stu.stuName}}</td>
+                    <td>{{stu.stuAge}}</td>
+                    <td>{{stu.stuPercentage}}</td>
+                    <td>
+                        <input type="button" class="btn btn-info" value="Edit" (click)="editForm(stu)"/> |
+                        <input type="button" class="btn btn-danger" value="Delete" (click)="deleteStudent(stu.stuId)" />
+  
+                    </td>
+                   </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row" *ngIf="!showList">
+        <h3>{{title}}</h3>
+        <div class="col-5">
+            <form [formGroup]="studentForm" (ngSubmit)="onSubmit()">
+                <div class="form-group mb-3">
+                  <label for="stuname">Name:</label>
+                  <input id="stuname" class="form-control" formControlName="stuname" type="text" />
+                  <div *ngIf="f['stuname'].invalid && (f['stuname'].dirty || f['stuname'].touched)">
+                    <small class="text-danger" *ngIf="f['stuname'].errors?.['required']">Student Name is required.</small>
+                    <small class="text-danger" *ngIf="f['stuname'].errors?.['minlength']">Minimum 3 characters required.</small>
+                  </div>
+                </div>
+             
+                <div class="form-group mb-3">
+                  <label for="stuage">Age:</label>
+                  <input id="stuage" class="form-control" formControlName="stuage" type="number" />
+                  <div *ngIf="f['stuage'].invalid && (f['stuage'].dirty || f['stuage'].touched)">
+                    <small class="text-danger" *ngIf="f['stuage'].errors?.['required']">Age is required.</small>
+                    <small class="text-danger" *ngIf="f['stuage'].errors?.['min']">Minimum age is 6.</small>
+                    <small class="text-danger" *ngIf="f['stuage'].errors?.['max']">Maximum age is 65.</small>
+                  </div>
+                </div>
+             
+                <div class="form-group mb-3">
+                  <label for="stupercentage">Percentage:</label>
+                  <input id="stupercentage" class="form-control" formControlName="stupercentage" type="number" />
+                  <div *ngIf="f['stupercentage'].invalid && (f['empsalary'].dirty || f['stupercentage'].touched)">
+                    <small class="text-danger" *ngIf="f['stupercentage'].errors?.['required']">Percentage is required.</small>
+                    <small class="text-danger" *ngIf="f['stupercentage'].errors?.['min']">Percentage must be positive.</small>
+                  </div>
+                </div>
+                <div class="form-goup mb-3">
+                    <button type="submit" *ngIf="!showUpdateBtn" class="btn btn-outline-primary" [disabled]="studentForm.invalid">Add Student</button>
+                    <button type="submit" *ngIf="showUpdateBtn" class="btn btn-outline-primary" [disabled]="studentForm.invalid">Update Student</button>
+                    &nbsp;&nbsp; <input type="button" class="btn btn-info" value="Back" (click)="toggleForm()"/>
+                </div>
+                <div class="form-group-mb-3">
+                    {{message}}
+                </div>
+              </form>
+        </div>
+    </div>
+  </div>
+  

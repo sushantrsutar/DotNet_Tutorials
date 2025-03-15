@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\GenericCollectionTQ\bin\Debug\GenericCollectionTQ.exe.config
+C:\Users\Sushant\.Net\GenericCollectionTQ\bin\Debug\GenericCollectionTQ.exe
+C:\Users\Sushant\.Net\GenericCollectionTQ\bin\Debug\GenericCollectionTQ.pdb
+C:\Users\Sushant\.Net\GenericCollectionTQ\obj\Debug\GenericCollectionTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\GenericCollectionTQ\obj\Debug\GenericCollectionTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\GenericCollectionTQ\obj\Debug\GenericCollectionTQ.exe
+C:\Users\Sushant\.Net\GenericCollectionTQ\obj\Debug\GenericCollectionTQ.pdb

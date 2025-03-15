@@ -1,0 +1,10 @@
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\bin\Debug\FileHandlingDemoTQ.exe.config
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\bin\Debug\FileHandlingDemoTQ.exe
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\bin\Debug\FileHandlingDemoTQ.pdb
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\obj\Debug\FileHandlingDemoTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\obj\Debug\FileHandlingDemoTQ.Form1.resources
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\obj\Debug\FileHandlingDemoTQ.Properties.Resources.resources
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\obj\Debug\FileHandlingDemoTQ.csproj.GenerateResource.cache
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\obj\Debug\FileHandlingDemoTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\obj\Debug\FileHandlingDemoTQ.exe
+C:\Users\Sushant\.Net\FileHandlingDemoTQ\obj\Debug\FileHandlingDemoTQ.pdb

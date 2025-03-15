@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|c:\\users\\sushant\\.net\\crudwithimage\\views\\product1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|solutionrelative:views\\product1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|c:\\users\\sushant\\.net\\crudwithimage\\controllers\\product1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|solutionrelative:controllers\\product1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|c:\\users\\sushant\\.net\\crudwithimage\\views\\product1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|solutionrelative:views\\product1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|c:\\users\\sushant\\.net\\crudwithimage\\models\\product1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|solutionrelative:models\\product1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|c:\\users\\sushant\\.net\\crudwithimage\\models\\product1crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F32085F-1552-41C3-91C5-BAD054D3D320}|CRUDwithImage.csproj|solutionrelative:models\\product1crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Views\\Product1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product1\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Views\\Product1\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product1\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T06:30:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Views\\Product1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product1\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Views\\Product1\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product1\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T14:37:25.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product1.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Models\\Product1.cs",
+              "RelativeDocumentMoniker": "Models\\Product1.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Models\\Product1.cs",
+              "RelativeToolTip": "Models\\Product1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:32:05.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Controllers\\Product1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Product1Controller.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Controllers\\Product1Controller.cs",
+              "RelativeToolTip": "Controllers\\Product1Controller.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwGoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:19:38.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product1crud.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Models\\Product1crud.cs",
+              "RelativeDocumentMoniker": "Models\\Product1crud.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\CRUDwithImage\\Models\\Product1crud.cs",
+              "RelativeToolTip": "Models\\Product1crud.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:08:09.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

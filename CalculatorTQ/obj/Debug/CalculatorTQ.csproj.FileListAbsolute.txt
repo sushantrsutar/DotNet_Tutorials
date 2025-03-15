@@ -1,0 +1,10 @@
+C:\Users\Sushant\.Net\CalculatorTQ\bin\Debug\CalculatorTQ.exe.config
+C:\Users\Sushant\.Net\CalculatorTQ\bin\Debug\CalculatorTQ.exe
+C:\Users\Sushant\.Net\CalculatorTQ\bin\Debug\CalculatorTQ.pdb
+C:\Users\Sushant\.Net\CalculatorTQ\obj\Debug\CalculatorTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\CalculatorTQ\obj\Debug\CalculatorTQ.Form1.resources
+C:\Users\Sushant\.Net\CalculatorTQ\obj\Debug\CalculatorTQ.Properties.Resources.resources
+C:\Users\Sushant\.Net\CalculatorTQ\obj\Debug\CalculatorTQ.csproj.GenerateResource.cache
+C:\Users\Sushant\.Net\CalculatorTQ\obj\Debug\CalculatorTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\CalculatorTQ\obj\Debug\CalculatorTQ.exe
+C:\Users\Sushant\.Net\CalculatorTQ\obj\Debug\CalculatorTQ.pdb

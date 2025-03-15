@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\ComparableDemoTQ\bin\Debug\ComparableDemoTQ.exe.config
+C:\Users\Sushant\.Net\ComparableDemoTQ\bin\Debug\ComparableDemoTQ.exe
+C:\Users\Sushant\.Net\ComparableDemoTQ\bin\Debug\ComparableDemoTQ.pdb
+C:\Users\Sushant\.Net\ComparableDemoTQ\obj\Debug\ComparableDemoTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\ComparableDemoTQ\obj\Debug\ComparableDemoTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\ComparableDemoTQ\obj\Debug\ComparableDemoTQ.exe
+C:\Users\Sushant\.Net\ComparableDemoTQ\obj\Debug\ComparableDemoTQ.pdb

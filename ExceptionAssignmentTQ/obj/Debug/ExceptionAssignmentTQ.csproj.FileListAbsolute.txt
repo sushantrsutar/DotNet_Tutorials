@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\ExceptionAssignmentTQ\bin\Debug\ExceptionAssignmentTQ.exe.config
+C:\Users\Sushant\.Net\ExceptionAssignmentTQ\bin\Debug\ExceptionAssignmentTQ.exe
+C:\Users\Sushant\.Net\ExceptionAssignmentTQ\bin\Debug\ExceptionAssignmentTQ.pdb
+C:\Users\Sushant\.Net\ExceptionAssignmentTQ\obj\Debug\ExceptionAssignmentTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\ExceptionAssignmentTQ\obj\Debug\ExceptionAssignmentTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\ExceptionAssignmentTQ\obj\Debug\ExceptionAssignmentTQ.exe
+C:\Users\Sushant\.Net\ExceptionAssignmentTQ\obj\Debug\ExceptionAssignmentTQ.pdb

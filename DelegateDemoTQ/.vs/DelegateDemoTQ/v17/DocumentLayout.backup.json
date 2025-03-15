@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|c:\\users\\sushant\\.net\\delegatedemotq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE11FDD-684F-4464-8C53-CDB385C1E8D3}|DelegateDemoTQ.csproj|solutionrelative:calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:38:52.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:15:45.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:12:32.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\Calculation.cs",
+              "RelativeDocumentMoniker": "Calculation.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\Calculation.cs",
+              "RelativeToolTip": "Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:39:08.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\DelegateDemoTQ\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwFcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:38:45.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

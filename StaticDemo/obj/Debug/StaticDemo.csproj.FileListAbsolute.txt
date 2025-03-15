@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\StaticDemo\obj\Debug\StaticDemo.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\StaticDemo\obj\Debug\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Users\Sushant\.Net\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Users\Sushant\.Net\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Users\Sushant\.Net\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Users\Sushant\.Net\StaticDemo\obj\Debug\StaticDemo.pdb

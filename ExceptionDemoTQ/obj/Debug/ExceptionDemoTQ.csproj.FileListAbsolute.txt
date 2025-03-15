@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\ExceptionDemoTQ\bin\Debug\ExceptionDemoTQ.exe.config
+C:\Users\Sushant\.Net\ExceptionDemoTQ\bin\Debug\ExceptionDemoTQ.exe
+C:\Users\Sushant\.Net\ExceptionDemoTQ\bin\Debug\ExceptionDemoTQ.pdb
+C:\Users\Sushant\.Net\ExceptionDemoTQ\obj\Debug\ExceptionDemoTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\ExceptionDemoTQ\obj\Debug\ExceptionDemoTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\ExceptionDemoTQ\obj\Debug\ExceptionDemoTQ.exe
+C:\Users\Sushant\.Net\ExceptionDemoTQ\obj\Debug\ExceptionDemoTQ.pdb

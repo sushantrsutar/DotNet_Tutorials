@@ -1,0 +1,53 @@
+﻿@model IEnumerable<EntityFrameworkDemoTq.Models.Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Student data</h1>
+
+<p>
+    <a asp-action="Create">Add New Student</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StuId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StuName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StuMarks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StuGrade)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StuId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StuName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StuMarks)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StuGrade)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.StuId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.StuId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.StuId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

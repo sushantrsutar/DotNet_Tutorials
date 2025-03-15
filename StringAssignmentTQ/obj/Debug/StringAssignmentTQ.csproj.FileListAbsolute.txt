@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\StringAssignmentTQ\bin\Debug\StringAssignmentTQ.exe.config
+C:\Users\Sushant\.Net\StringAssignmentTQ\bin\Debug\StringAssignmentTQ.exe
+C:\Users\Sushant\.Net\StringAssignmentTQ\bin\Debug\StringAssignmentTQ.pdb
+C:\Users\Sushant\.Net\StringAssignmentTQ\obj\Debug\StringAssignmentTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\StringAssignmentTQ\obj\Debug\StringAssignmentTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\StringAssignmentTQ\obj\Debug\StringAssignmentTQ.exe
+C:\Users\Sushant\.Net\StringAssignmentTQ\obj\Debug\StringAssignmentTQ.pdb

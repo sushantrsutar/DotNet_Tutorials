@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\MethodTestPractice\obj\Debug\MethodTestPractice.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\MethodTestPractice\obj\Debug\MethodTestPractice.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\MethodTestPractice\bin\Debug\MethodTestPractice.exe.config
+C:\Users\Sushant\.Net\MethodTestPractice\bin\Debug\MethodTestPractice.exe
+C:\Users\Sushant\.Net\MethodTestPractice\bin\Debug\MethodTestPractice.pdb
+C:\Users\Sushant\.Net\MethodTestPractice\obj\Debug\MethodTestPractice.exe
+C:\Users\Sushant\.Net\MethodTestPractice\obj\Debug\MethodTestPractice.pdb

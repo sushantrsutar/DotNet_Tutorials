@@ -1,0 +1,47 @@
+﻿@model EntityFrameworkDemoTq.Models.Student
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<h4> Add Student</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mb-3">
+                <label asp-for="StuId" class="control-label"></label>
+                <input asp-for="StuId" class="form-control" />
+                <span asp-validation-for="StuId" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="StuName" class="control-label"></label>
+                <input asp-for="StuName" class="form-control" />
+                <span asp-validation-for="StuName" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="StuMarks" class="control-label"></label>
+                <input asp-for="StuMarks" class="form-control" />
+                <span asp-validation-for="StuMarks" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="StuGrade" class="control-label"></label>
+                <input asp-for="StuGrade" class="form-control" />
+                <span asp-validation-for="StuGrade" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <input type="submit" value="Add Student" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

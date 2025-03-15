@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\CollectionDemoTQ\bin\Debug\CollectionDemoTQ.exe.config
+C:\Users\Sushant\.Net\CollectionDemoTQ\bin\Debug\CollectionDemoTQ.exe
+C:\Users\Sushant\.Net\CollectionDemoTQ\bin\Debug\CollectionDemoTQ.pdb
+C:\Users\Sushant\.Net\CollectionDemoTQ\obj\Debug\CollectionDemoTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\CollectionDemoTQ\obj\Debug\CollectionDemoTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\CollectionDemoTQ\obj\Debug\CollectionDemoTQ.exe
+C:\Users\Sushant\.Net\CollectionDemoTQ\obj\Debug\CollectionDemoTQ.pdb

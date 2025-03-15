@@ -1,0 +1,74 @@
+<div class="container">
+  <div class="row" *ngIf="showList">
+      <input type="button" value="Add Employee" class="btn btn-primary mb-3" (click)="toggleForm()" style="width: 140px;"/>
+      <h3>Employee List</h3>
+      <div class="col-12">
+          <table class="table table-bordered">
+              <thead>
+                  <tr>
+                  <th>Emp Id</th>
+                  <th>Emp Name</th>
+                  <th>Age</th>
+                  <th>Salary</th>
+                  <th>Actions</th>
+              </tr>
+              </thead>
+              <tbody>
+                 <tr *ngFor="let emp of empList">
+                  <td>{{emp.empId}}</td>
+                  <td>{{emp.empName}}</td>
+                  <td>{{emp.empAge}}</td>
+                  <td>{{emp.empSalary}}</td>
+                  <td>
+                      <input type="button" class="btn btn-info" value="Edit" (click)="editForm(emp)"/> |
+                      <input type="button" class="btn btn-danger" value="Delete" (click)="deleteEmployee(emp.empId)" />
+
+                  </td>
+                 </tr>
+              </tbody>
+          </table>
+      </div>
+  </div>
+  <div class="row" *ngIf="!showList">
+      <h3>{{title}}</h3>
+      <div class="col-5">
+          <form [formGroup]="employeeForm" (ngSubmit)="onSubmit()">
+              <div class="form-group mb-3">
+                <label for="empname">Employee Name:</label>
+                <input id="empname" class="form-control" formControlName="empname" type="text" />
+                <div *ngIf="f['empname'].invalid && (f['empname'].dirty || f['empname'].touched)">
+                  <small class="text-danger" *ngIf="f['empname'].errors?.['required']">Employee Name is required.</small>
+                  <small class="text-danger" *ngIf="f['empname'].errors?.['minlength']">Minimum 3 characters required.</small>
+                </div>
+              </div>
+           
+              <div class="form-group mb-3">
+                <label for="empage">Age:</label>
+                <input id="empage" class="form-control" formControlName="empage" type="number" />
+                <div *ngIf="f['empage'].invalid && (f['empage'].dirty || f['empage'].touched)">
+                  <small class="text-danger" *ngIf="f['empage'].errors?.['required']">Age is required.</small>
+                  <small class="text-danger" *ngIf="f['empage'].errors?.['min']">Minimum age is 18.</small>
+                  <small class="text-danger" *ngIf="f['empage'].errors?.['max']">Maximum age is 65.</small>
+                </div>
+              </div>
+           
+              <div class="form-group mb-3">
+                <label for="empsalary">Salary:</label>
+                <input id="empsalary" class="form-control" formControlName="empsalary" type="number" />
+                <div *ngIf="f['empsalary'].invalid && (f['empsalary'].dirty || f['empsalary'].touched)">
+                  <small class="text-danger" *ngIf="f['empsalary'].errors?.['required']">Salary is required.</small>
+                  <small class="text-danger" *ngIf="f['empsalary'].errors?.['min']">Salary must be positive.</small>
+                </div>
+              </div>
+              <div class="form-goup mb-3">
+                  <button type="submit" *ngIf="!showUpdateBtn" class="btn btn-outline-primary" [disabled]="employeeForm.invalid">Add Employee</button>
+                  <button type="submit" *ngIf="showUpdateBtn" class="btn btn-outline-primary" [disabled]="employeeForm.invalid">Update Employee</button>
+                  &nbsp;&nbsp; <input type="button" class="btn btn-info" value="Back" (click)="toggleForm()"/>
+              </div>
+              <div class="form-group-mb-3">
+                  {{message}}
+              </div>
+            </form>
+      </div>
+  </div>
+</div>

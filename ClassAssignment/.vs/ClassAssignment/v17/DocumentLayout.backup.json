@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|C:\\Users\\Sushant\\.Net\\ClassAssignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|c:\\users\\sushant\\.net\\classassignment\\car1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|solutionrelative:car1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|c:\\users\\sushant\\.net\\classassignment\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|c:\\users\\sushant\\.net\\classassignment\\secretbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|solutionrelative:secretbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|c:\\users\\sushant\\.net\\classassignment\\employeestatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D932D57E-38EC-42BE-B315-534EAEC1D6A0}|ClassAssignment.csproj|solutionrelative:employeestatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car1.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\Car1.cs",
+              "RelativeDocumentMoniker": "Car1.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\Car1.cs",
+              "RelativeToolTip": "Car1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvzQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:26:19.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:19:35.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecretBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\SecretBankAccount.cs",
+              "RelativeDocumentMoniker": "SecretBankAccount.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\SecretBankAccount.cs",
+              "RelativeToolTip": "SecretBankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:14:06.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeStatic.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\EmployeeStatic.cs",
+              "RelativeDocumentMoniker": "EmployeeStatic.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\EmployeeStatic.cs",
+              "RelativeToolTip": "EmployeeStatic.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:54:20.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ClassAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIIBAAAAAAAAAAAYwI4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:38:37.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

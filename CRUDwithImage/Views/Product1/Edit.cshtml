@@ -1,0 +1,63 @@
+﻿@model CRUDwithImage.Models.Product1
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<h4>Edit Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data" >
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mb-3">
+                <label asp-for="productId" class="control-label"></label>
+                <input asp-for="productId" class="form-control" readonly/>
+                <span asp-validation-for="productId" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="productName" class="control-label"></label>
+                <input asp-for="productName" class="form-control" />
+                <span asp-validation-for="productName" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            @* <div class="form-group mb-3"> *@
+            @*     <label asp-for="imageUrl" class="control-label"></label> *@
+            @*     <input asp-for="imageUrl" class="form-control" /> *@
+            @*     <span asp-validation-for="imageUrl" class="text-danger"></span> *@
+            @* </div> *@
+            <div class="form-group mb-3">
+                <label asp-for="imageUrl" class="control-label"></label>
+                <input asp-for="imageUrl" type="file" name="file" class="form-control" />
+                <span asp-validation-for="imageUrl" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group mb-3">
+                <label class="control-label">Previous Image</label>
+                   <img src="@Url.Content(Model.imageUrl)" height="150" width="200" />
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="categoryId" class="control-label">Category Name</label>
+                <select asp-for="categoryId" class="form-control"
+                        asp-items="@(new SelectList(@ViewBag.Catagaries,"CategoryId","CategoryName"))"></select>
+                <span asp-validation-for="categoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <input type="submit" value="Update" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sushant\\.Net\\ADOCRUDdemoTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF4D554-1FDD-417E-B4A2-5965F0E34222}|ADOCRUDdemoTQ.csproj|c:\\users\\sushant\\.net\\adocruddemotq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DF4D554-1FDD-417E-B4A2-5965F0E34222}|ADOCRUDdemoTQ.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF4D554-1FDD-417E-B4A2-5965F0E34222}|ADOCRUDdemoTQ.csproj|c:\\users\\sushant\\.net\\adocruddemotq\\models\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF4D554-1FDD-417E-B4A2-5965F0E34222}|ADOCRUDdemoTQ.csproj|solutionrelative:models\\employeecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ADOCRUDdemoTQ\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ADOCRUDdemoTQ\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T16:24:50.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\ADOCRUDdemoTQ\\Models\\EmployeeCRUD.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeCRUD.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\ADOCRUDdemoTQ\\Models\\EmployeeCRUD.cs",
+              "RelativeToolTip": "Models\\EmployeeCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:24:27.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

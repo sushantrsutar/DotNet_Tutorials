@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sushant\\.Net\\AccessSpecifiersDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A62960E-2AFB-4421-9BCC-B001341AB48C}|..\\otherNameSpace\\otherNameSpace.csproj|c:\\users\\sushant\\.net\\othernamespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B64A8D5-F1D7-4A9A-B34D-B8CCB36EB589}|AccessSpecifiersDemo.csproj|c:\\users\\sushant\\.net\\accessspecifiersdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B64A8D5-F1D7-4A9A-B34D-B8CCB36EB589}|AccessSpecifiersDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B64A8D5-F1D7-4A9A-B34D-B8CCB36EB589}|AccessSpecifiersDemo.csproj|C:\\Users\\Sushant\\.Net\\AccessSpecifiersDemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B64A8D5-F1D7-4A9A-B34D-B8CCB36EB589}|AccessSpecifiersDemo.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B64A8D5-F1D7-4A9A-B34D-B8CCB36EB589}|AccessSpecifiersDemo.csproj|C:\\Users\\Sushant\\.Net\\AccessSpecifiersDemo\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B64A8D5-F1D7-4A9A-B34D-B8CCB36EB589}|AccessSpecifiersDemo.csproj|solutionrelative:class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\AccessSpecifiersDemo\\Class2.cs",
+              "RelativeDocumentMoniker": "Class2.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\AccessSpecifiersDemo\\Class2.cs",
+              "RelativeToolTip": "Class2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:20:02.65Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\otherNameSpace\\Program.cs",
+              "RelativeDocumentMoniker": "..\\otherNameSpace\\Program.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\otherNameSpace\\Program.cs",
+              "RelativeToolTip": "..\\otherNameSpace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:00:19.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\AccessSpecifiersDemo\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\AccessSpecifiersDemo\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:19:32.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\AccessSpecifiersDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\AccessSpecifiersDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:19:22.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

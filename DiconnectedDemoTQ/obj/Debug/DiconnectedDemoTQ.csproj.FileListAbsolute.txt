@@ -1,0 +1,10 @@
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\bin\Debug\DiconnectedDemoTQ.exe.config
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\bin\Debug\DiconnectedDemoTQ.exe
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\bin\Debug\DiconnectedDemoTQ.pdb
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\obj\Debug\DiconnectedDemoTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\obj\Debug\DiconnectedDemoTQ.Form1.resources
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\obj\Debug\DiconnectedDemoTQ.Properties.Resources.resources
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\obj\Debug\DiconnectedDemoTQ.csproj.GenerateResource.cache
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\obj\Debug\DiconnectedDemoTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\obj\Debug\DiconnectedDemoTQ.exe
+C:\Users\Sushant\.Net\DiconnectedDemoTQ\obj\Debug\DiconnectedDemoTQ.pdb

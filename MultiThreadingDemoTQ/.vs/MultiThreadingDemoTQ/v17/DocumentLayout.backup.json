@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sushant\\.Net\\MultiThreadingDemoTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BDA4DE-1834-46E7-AA11-E15753E2BC5F}|MultiThreadingDemoTQ.csproj|c:\\users\\sushant\\.net\\multithreadingdemotq\\ticketingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BDA4DE-1834-46E7-AA11-E15753E2BC5F}|MultiThreadingDemoTQ.csproj|solutionrelative:ticketingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BDA4DE-1834-46E7-AA11-E15753E2BC5F}|MultiThreadingDemoTQ.csproj|c:\\users\\sushant\\.net\\multithreadingdemotq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BDA4DE-1834-46E7-AA11-E15753E2BC5F}|MultiThreadingDemoTQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BDA4DE-1834-46E7-AA11-E15753E2BC5F}|MultiThreadingDemoTQ.csproj|c:\\users\\sushant\\.net\\multithreadingdemotq\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BDA4DE-1834-46E7-AA11-E15753E2BC5F}|MultiThreadingDemoTQ.csproj|solutionrelative:table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketingBook.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\MultiThreadingDemoTQ\\TicketingBook.cs",
+              "RelativeDocumentMoniker": "TicketingBook.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\MultiThreadingDemoTQ\\TicketingBook.cs",
+              "RelativeToolTip": "TicketingBook.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:58:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\MultiThreadingDemoTQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\MultiThreadingDemoTQ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwHIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:12:50.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Sushant\\.Net\\MultiThreadingDemoTQ\\Table.cs",
+              "RelativeDocumentMoniker": "Table.cs",
+              "ToolTip": "C:\\Users\\Sushant\\.Net\\MultiThreadingDemoTQ\\Table.cs",
+              "RelativeToolTip": "Table.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:11:26.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\bin\Debug\WindowsFormsDemoTQ.exe.config
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\bin\Debug\WindowsFormsDemoTQ.exe
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\bin\Debug\WindowsFormsDemoTQ.pdb
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\obj\Debug\WindowsFormsDemoTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\obj\Debug\WindowsFormsDemoTQ.Form1.resources
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\obj\Debug\WindowsFormsDemoTQ.Properties.Resources.resources
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\obj\Debug\WindowsFormsDemoTQ.csproj.GenerateResource.cache
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\obj\Debug\WindowsFormsDemoTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\obj\Debug\WindowsFormsDemoTQ.exe
+C:\Users\Sushant\.Net\WindowsFormsDemoTQ\obj\Debug\WindowsFormsDemoTQ.pdb

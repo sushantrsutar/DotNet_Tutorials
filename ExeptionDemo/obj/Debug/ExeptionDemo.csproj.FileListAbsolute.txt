@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\ExeptionDemo\bin\Debug\ExeptionDemo.exe.config
+C:\Users\Sushant\.Net\ExeptionDemo\bin\Debug\ExeptionDemo.exe
+C:\Users\Sushant\.Net\ExeptionDemo\bin\Debug\ExeptionDemo.pdb
+C:\Users\Sushant\.Net\ExeptionDemo\obj\Debug\ExeptionDemo.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\ExeptionDemo\obj\Debug\ExeptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\ExeptionDemo\obj\Debug\ExeptionDemo.exe
+C:\Users\Sushant\.Net\ExeptionDemo\obj\Debug\ExeptionDemo.pdb

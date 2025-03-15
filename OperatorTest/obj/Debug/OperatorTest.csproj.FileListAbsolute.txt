@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\OperatorTest\bin\Debug\OperatorTest.exe.config
+C:\Users\Sushant\.Net\OperatorTest\bin\Debug\OperatorTest.exe
+C:\Users\Sushant\.Net\OperatorTest\bin\Debug\OperatorTest.pdb
+C:\Users\Sushant\.Net\OperatorTest\obj\Debug\OperatorTest.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\OperatorTest\obj\Debug\OperatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\OperatorTest\obj\Debug\OperatorTest.exe
+C:\Users\Sushant\.Net\OperatorTest\obj\Debug\OperatorTest.pdb

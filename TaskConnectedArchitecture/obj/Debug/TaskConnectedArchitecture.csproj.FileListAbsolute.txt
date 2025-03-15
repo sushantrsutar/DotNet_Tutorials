@@ -1,0 +1,10 @@
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\bin\Debug\TaskConnectedArchitecture.exe.config
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\bin\Debug\TaskConnectedArchitecture.exe
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\bin\Debug\TaskConnectedArchitecture.pdb
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\obj\Debug\TaskConnectedArchitecture.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\obj\Debug\TaskConnectedArchitecture.Form1.resources
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\obj\Debug\TaskConnectedArchitecture.Properties.Resources.resources
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\obj\Debug\TaskConnectedArchitecture.csproj.GenerateResource.cache
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\obj\Debug\TaskConnectedArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\obj\Debug\TaskConnectedArchitecture.exe
+C:\Users\Sushant\.Net\TaskConnectedArchitecture\obj\Debug\TaskConnectedArchitecture.pdb

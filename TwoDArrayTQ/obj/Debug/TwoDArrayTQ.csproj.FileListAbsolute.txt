@@ -1,0 +1,7 @@
+C:\Users\Sushant\.Net\TwoDArrayTQ\bin\Debug\TwoDArrayTQ.exe.config
+C:\Users\Sushant\.Net\TwoDArrayTQ\bin\Debug\TwoDArrayTQ.exe
+C:\Users\Sushant\.Net\TwoDArrayTQ\bin\Debug\TwoDArrayTQ.pdb
+C:\Users\Sushant\.Net\TwoDArrayTQ\obj\Debug\TwoDArrayTQ.csproj.AssemblyReference.cache
+C:\Users\Sushant\.Net\TwoDArrayTQ\obj\Debug\TwoDArrayTQ.csproj.CoreCompileInputs.cache
+C:\Users\Sushant\.Net\TwoDArrayTQ\obj\Debug\TwoDArrayTQ.exe
+C:\Users\Sushant\.Net\TwoDArrayTQ\obj\Debug\TwoDArrayTQ.pdb

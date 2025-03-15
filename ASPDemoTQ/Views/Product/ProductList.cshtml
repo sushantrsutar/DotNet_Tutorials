@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "ProductList";
+}
+
+<h1>@ViewData["message"]</h1>
+
+<p>
+    @TempData["message"]
+</p>
+<ol>
+    @foreach (string str in (IEnumerable<string>)ViewData["prod"]) { 
+        <li>
+            @str
+        </li>    
+    }
+</ol>
+<p>Using ViewData</p>
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>Price (INR)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Product product in (IEnumerable<Product>)ViewData["list"])
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>Using ViewBag</p>
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>Price (INR)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Product product in ViewBag.product)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
